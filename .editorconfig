@@ -1,0 +1,8 @@
+{
+  config: '.editorconfig',
+  version: pkg.version,
+  root: '/',
+  files: undefined,
+  cache: undefined,
+  unset: false,
+};
